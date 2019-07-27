@@ -1,0 +1,15 @@
+F:\proyetos\aS\EBECSA\CapaPresetacionWF\bin\Debug\CapaPresetacionWF.exe.config
+F:\proyetos\aS\EBECSA\CapaPresetacionWF\bin\Debug\CapaPresetacionWF.exe
+F:\proyetos\aS\EBECSA\CapaPresetacionWF\bin\Debug\CapaPresetacionWF.pdb
+F:\proyetos\aS\EBECSA\CapaPresetacionWF\bin\Debug\CapaEntidades.dll
+F:\proyetos\aS\EBECSA\CapaPresetacionWF\bin\Debug\Negocio.dll
+F:\proyetos\aS\EBECSA\CapaPresetacionWF\bin\Debug\CapaDatos.dll
+F:\proyetos\aS\EBECSA\CapaPresetacionWF\bin\Debug\CapaEntidades.pdb
+F:\proyetos\aS\EBECSA\CapaPresetacionWF\bin\Debug\Negocio.pdb
+F:\proyetos\aS\EBECSA\CapaPresetacionWF\bin\Debug\CapaDatos.pdb
+F:\proyetos\aS\EBECSA\CapaPresetacionWF\obj\Debug\CapaPresetacionWF.csprojResolveAssemblyReference.cache
+F:\proyetos\aS\EBECSA\CapaPresetacionWF\obj\Debug\CapaPresetacionWF.FormProspecto.resources
+F:\proyetos\aS\EBECSA\CapaPresetacionWF\obj\Debug\CapaPresetacionWF.Properties.Resources.resources
+F:\proyetos\aS\EBECSA\CapaPresetacionWF\obj\Debug\CapaPresetacionWF.csproj.GenerateResource.Cache
+F:\proyetos\aS\EBECSA\CapaPresetacionWF\obj\Debug\CapaPresetacionWF.exe
+F:\proyetos\aS\EBECSA\CapaPresetacionWF\obj\Debug\CapaPresetacionWF.pdb

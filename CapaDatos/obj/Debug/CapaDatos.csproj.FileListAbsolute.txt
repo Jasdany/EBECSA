@@ -1,0 +1,7 @@
+F:\proyetos\aS\EBECSA\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+F:\proyetos\aS\EBECSA\CapaDatos\bin\Debug\CapaDatos.dll
+F:\proyetos\aS\EBECSA\CapaDatos\bin\Debug\CapaDatos.pdb
+F:\proyetos\aS\EBECSA\CapaDatos\bin\Debug\CapaEntidades.dll
+F:\proyetos\aS\EBECSA\CapaDatos\bin\Debug\CapaEntidades.pdb
+F:\proyetos\aS\EBECSA\CapaDatos\obj\Debug\CapaDatos.dll
+F:\proyetos\aS\EBECSA\CapaDatos\obj\Debug\CapaDatos.pdb

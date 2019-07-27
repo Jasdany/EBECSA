@@ -1,0 +1,9 @@
+F:\proyetos\aS\EBECSA\Negocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+F:\proyetos\aS\EBECSA\Negocio\bin\Debug\Negocio.dll
+F:\proyetos\aS\EBECSA\Negocio\bin\Debug\Negocio.pdb
+F:\proyetos\aS\EBECSA\Negocio\bin\Debug\CapaDatos.dll
+F:\proyetos\aS\EBECSA\Negocio\bin\Debug\CapaEntidades.dll
+F:\proyetos\aS\EBECSA\Negocio\bin\Debug\CapaDatos.pdb
+F:\proyetos\aS\EBECSA\Negocio\bin\Debug\CapaEntidades.pdb
+F:\proyetos\aS\EBECSA\Negocio\obj\Debug\Negocio.dll
+F:\proyetos\aS\EBECSA\Negocio\obj\Debug\Negocio.pdb
